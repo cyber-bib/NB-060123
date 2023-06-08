@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.cxx": "cpp",
+    "*.fxx": "cpp",
+    "*.snippet": "cpp",
+    "*.ckk": "cpp",
+    "*.kk": "cmake",
+    "stdexcept": "cpp"
+  }
+}
